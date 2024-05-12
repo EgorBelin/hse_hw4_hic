@@ -10,19 +10,19 @@ bed файлы с границами ТАДов находятся в папке
 
 ### реплика 1
 
-![alt text](images\hic1.png)
+![alt text](images/hic1.png)
 
 ### реплика 2
 
-![alt text](images\hic2.png)
+![alt text](images/hic2.png)
 
 ### реплика 3
 
-![alt text](images\hic3.png)
+![alt text](images/hic3.png)
 
 ### реплика 4
 
-![alt text](images\hic4.png)
+![alt text](images/hic4.png)
 
 ## Insulation score и границы ТАДов
 
@@ -30,16 +30,16 @@ bed файлы с границами ТАДов находятся в папке
 
 ### реплика 1
 
-![alt text](images\IS_1.png)
+![alt text](images/IS_1.png)
 
 ### реплика 2
 
-![alt text](images\IS_2.png)
+![alt text](images/IS_2.png)
 
 ### реплика 3
 
-![alt text](images\IS_3.png)
+![alt text](images/IS_3.png)
 
 ### реплика 4
 
-![alt text](images\IS_4.png)
+![alt text](images/IS_4.png)
